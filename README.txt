@@ -1,6 +1,8 @@
 Jennifer Bramson
 jib41@pitt.edu
 
+This logism file creates a single-cycle processor to implement a subset of MIPS instructions.
+
 I tried to use the same general layout as the datapath we covered in class. So,
 for example, all of the arithmetic and logical operations (and, nor, add, sub,
 addi, addui, mult, div, along with the comparisons necessary for branches) all
